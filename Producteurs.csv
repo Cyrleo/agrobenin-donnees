@@ -1,0 +1,121 @@
+﻿IDProducteur;Nom;Sexe;Commune;Departement;DateAdhesion
+P001;Rachida Tossou;F;Ouidah;Atlantique;25/02/2016
+P002;Hounkpè Tchando;M;Ouidah;Atlantique;03/06/2021
+P003;Hounkpè Dossou;M;Allada;Atlantique;20/11/2021
+P004;Rissikatou Tchando;F; Allada ;Atlantique;28/12/2024
+P005;Abdou Akpovi;M;Allada;Atlantique;31/12/2018
+P006;Ibrahim Dossou;M; Ouidah ;Atlantique;26/10/2018
+P007;Rodrigue Orou;M;Allada;Atlantique;30/10/2024
+P008;Awa Dossou;F;Allada;Atlantique;26/09/2019
+P009;Sènami Kpadonou;F;Ouidah;Atlantique;21/04/2016
+P010;Hounkpè Bio;M;Allada;Atlantique;18/11/2020
+P011;Hounkpè Houngbo;M;Allada;Atlantique;11/01/2024
+P012;Moussa Zinsou;M;Abomey-Calavi;Atlantique;09/07/2022
+P013;Issa Tossou;M;Allada;Atlantique;01/12/2024
+P014;Sèna Tchando;M;Ouidah;Atlantique;24/07/2022
+P015;Ibrahim Orou;M;Allada;Atlantique;06/07/2022
+P016;Gildas Akpovi;M;Ouidah;Atlantique;10/01/2024
+P017;Rodrigue Chabi;M; Allada ;Atlantique;05/09/2016
+P018;Firmin Tchando;M;Allada;Atlantique;01/12/2017
+P019;Firmin Adjovi;M;Allada;Atlantique;05/03/2025
+P020;Codjo Chabi;M;Allada;Atlantique;07/02/2016
+P021;Ibrahim Kpadonou;M;Bohicon;Zou;19/01/2017
+P022;Firmin Tchando;M;Abomey;Zou;16/02/2025
+P023;Bernadette Chabi;F;Covè;Zou;22/08/2016
+P024;Sèna Dossou;M;Abomey;Zou;16/02/2021
+P025;Abdou Bio;M;Abomey;Zou;02/07/2015
+P026;Gildas Tchando;M;Bohicon;Zou;07/07/2018
+P027;Moussa Gbaguidi;M;Covè;Zou;05/08/2021
+P028;Yacoubou Agossou;M;Covè;Zou;08/09/2019
+P029;Hounkpè Gbaguidi;M;Bohicon;Zou;19/05/2019
+P030;Abdou Akpovi;M; Bohicon ;Zou;10/03/2016
+P031;Koffi Houngbo;M;Bohicon;Zou;19/08/2023
+P032;Clarisse Yarou;F;Bohicon;Zou;18/01/2020
+P033;Firmin Agossou;M;Bohicon;Zou;11/01/2024
+P034;Rachida Chabi;F;Abomey;Zou;09/10/2018
+P035;Gildas Adjovi;M; Covè ;Zou;23/06/2019
+P036;Mariam Adjovi;F;Abomey;Zou;29/05/2024
+P037;Gildas Houngbo;M;Abomey;Zou;11/08/2022
+P038;Rachida Gbaguidi;F;Abomey;Zou;18/10/2020
+P039;Mariam Kpadonou;F;Bohicon;Zou;23/12/2020
+P040;Issa Bio;M;Bohicon;Zou;16/12/2016
+P041;Issa Tchando;M;Tchaourou;Borgou;27/08/2018
+P042;Ibrahim Soglo;M;N'Dali;Borgou;04/07/2024
+P043;Rissikatou Agossou;F;Tchaourou;Borgou;30/07/2019
+P044;Codjo Soglo;M;Parakou;Borgou;15/09/2022
+P045;Awa Soglo;F;Tchaourou;Borgou;15/05/2021
+P046;Hounkpè Zinsou;M;Tchaourou;Borgou;27/06/2016
+P047;Sèna Adjovi;M;Tchaourou;Borgou;04/09/2022
+P048;Yacoubou Yarou;M;Parakou;Borgou;11/03/2016
+P049;Rissikatou Bio;F;Tchaourou;Borgou;23/10/2016
+P050;Afi Bio;F;Tchaourou;Borgou;23/02/2025
+P051;Afi Orou;F;Parakou;Borgou;05/04/2015
+P052;Gisèle Yarou;F;N'Dali;Borgou;05/12/2018
+P053;Hounkpè Akpovi;M;N'Dali;Borgou;15/05/2025
+P054;Bernadette Zinsou;F;N'Dali;Borgou;06/11/2024
+P055;Ibrahim Sanni;M;N'Dali;Borgou;10/04/2018
+P056;Awa Yarou;F;Tchaourou;Borgou;26/02/2018
+P057;Rissikatou Houngbo;F;Tchaourou;Borgou;30/07/2018
+P058;Codjo Zinsou;M;Parakou;Borgou;03/02/2023
+P059;Rissikatou Sanni;F; Parakou ;Borgou;10/11/2020
+P060;Gildas Gbaguidi;M; Tchaourou ;Borgou;26/06/2021
+P061;Fatoumata Gbaguidi;F;Malanvile;Alibori;10/09/2023
+P062;Afi Akpovi;F;Banikoara;Alibori;26/01/2021
+P063;Moussa Tchando;M; Kandi ;Alibori;07/02/2018
+P064;Adjoa Dossou;F;Kandi;Alibori;28/08/2021
+P065;Ibrahim Bio;M;Kandi;Alibori;28/03/2024
+P066;Rachida Houngbo;F;Banikoara;Alibori;18/05/2022
+P067;Abdou Gbaguidi;M;Malanvile;Alibori;01/09/2024
+P068;Issa Tossou;M;Banikoara;Alibori;11/11/2023
+P069;Rodrigue Chabi;M;Malanville;Alibori;25/02/2020
+P070;Firmin Agossou;M;Banikoara;Alibori;08/02/2017
+P071;Moussa Kpadonou;M;Malanville;Alibori;16/02/2024
+P072;Gildas Bio;M;Kandi;Alibori;07/03/2019
+P073;Awa Soglo;F;Kandi;Alibori;17/03/2015
+P074;Yacoubou Akpovi;M;Banikoara;Alibori;02/07/2015
+P075;Rachida Zinsou;F;Banikoara;Alibori;14/09/2020
+P076;Awa Soglo;F;Malanville;Alibori;20/06/2015
+P077;Chantal Soglo;F;Malanville;Alibori;11/05/2019
+P078;Gildas Tchando;M;Kandi;Alibori;07/04/2022
+P079;Codjo Houngbo;M;Banikoara;Alibori;15/10/2020
+P080;Rachida Zinsou;F;Kandi;Alibori;12/12/2024
+P081;Yacoubou Sanni;M;Glazoué;Collines;18/09/2015
+P082;Rachida Gbaguidi;F;Savalou;Collines;13/10/2017
+P083;Adjoa Orou;F;Dassa Zoume;Collines;02/12/2021
+P084;Codjo Tossou;M;Dassa-Zoumè;Collines;26/10/2020
+P085;Gildas Dossou;M;Dassa-Zoumè;Collines;10/10/2015
+P086;Rodrigue Kpadonou;M;Dassa-Zoumè;Collines;24/08/2018
+P087;Codjo Tchando;M;Dassa-Zoumè;Collines;12/08/2024
+P088;Mariam Sanni;F;Savalou;Collines;20/06/2017
+P089;Codjo Gbaguidi;M;Dassa-Zoumè;Collines;21/05/2017
+P090;Hounkpè Zinsou;M;Glazoué;Collines;09/09/2018
+P091;Clarisse Zinsou;F;Dassa-Zoume;Collines;10/08/2016
+P092;Sènami Yarou;F;Dassa-Zoumè;Collines;01/03/2021
+P093;Codjo Tchando;M;Savalou;Collines;08/05/2025
+P094;Gildas Sanni;M;Glazoué;Collines;05/10/2019
+P095;Koffi Bio;M; Dassa-Zoumè ;Collines;08/04/2021
+P096;Sènami Tchando;F;Glazoué;Collines;30/12/2023
+P097;Firmin Bio;M;Dassa Zoume;Collines;30/05/2022
+P098;Bernadette Dossou;F;Dassa-Zoumè;Collines;22/02/2019
+P099;Abdou Yarou;M;Glazoué;Collines;30/09/2016
+P100;Firmin Orou;M;Savalou;Collines;30/11/2016
+P101;Fatoumata Gbaguidi;F;Kouandé;Atacora;09/08/2021
+P102;Chantal Tossou;F; Tanguiéta ;Atacora;03/03/2021
+P103;Firmin Sanni;M;Kouandé;Atacora;08/11/2018
+P104;Clarisse Bio;F;Tanguiéta;Atacora;01/09/2018
+P105;Clarisse Sanni;F; Natitingou ;Atacora;27/01/2024
+P106;Clarisse Akpovi;F;Natitingou;Atacora;29/09/2020
+P107;Sènami Dossou;F;Natitingou;Atacora;04/09/2024
+P108;Gildas Orou;M;Kouandé;Atacora;20/12/2020
+P109;Hounkpè Yarou;M;Natitingou;Atacora;09/11/2020
+P110;Gildas Agossou;M;Tanguiéta;Atacora;16/11/2015
+P111;Ibrahim Zinsou;M;Kouandé;Atacora;26/01/2022
+P112;Abdou Kpadonou;M;Natitingou;Atacora;08/05/2017
+P113;Ibrahim Bio;M;Natitingou;Atacora;17/11/2023
+P114;Yacoubou Yarou;M;Tanguiéta;Atacora;11/08/2022
+P115;Gisèle Soglo;F;Tanguiéta;Atacora;22/02/2023
+P116;Rachida Gbaguidi;F;Kouandé;Atacora;04/03/2023
+P117;Gisèle Adjovi;F; Kouandé ;Atacora;23/06/2022
+P118;Chantal Sanni;F;Natitingou;Atacora;22/01/2021
+P119;Mariam Agossou;F;Natitingou;Atacora;05/06/2023
+P120;Issa Houngbo;M;Kouandé;Atacora;26/03/2025
